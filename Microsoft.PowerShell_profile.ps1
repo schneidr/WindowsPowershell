@@ -1,0 +1,1 @@
+$env:Path += ";$env:USERPROFILE\Documents\WindowsPowerShell\Scripts"
